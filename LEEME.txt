@@ -1,0 +1,5 @@
+1. Crea un repositorio en github.com (New repository).
+2. Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Pestaña Actions > "Compilar APK" > Run workflow (o se ejecuta sola al subir).
+4. Al terminar (verde), abre la ejecucion y descarga "VirtualTecnicaCam-apk" en Artifacts.
+5. Descomprime e instala el .apk en el movil (permitir fuentes desconocidas).
